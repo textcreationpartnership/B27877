@@ -1,0 +1,578 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular of the silks, and a specimen of the toyes and handicraft-wares, which came from the East-India, on the ships Martha, Sarah and Dorothy; with the rates at which they were sold at the late sale at the East-India-House; according to the books of sales of these ships, and printed cargoes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27877</idno>
+            <idno type="STC">Wing P596A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[46]</idno>
+            <idno type="STC">ESTC R220345</idno>
+            <idno type="EEBO-CITATION">99884981</idno>
+            <idno type="PROQUEST">ocm99884981</idno>
+            <idno type="VID">189472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B27877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189472)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular of the silks, and a specimen of the toyes and handicraft-wares, which came from the East-India, on the ships Martha, Sarah and Dorothy; with the rates at which they were sold at the late sale at the East-India-House; according to the books of sales of these ships, and printed cargoes.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Docket title: An account of the late sale of India silks, &amp;c. With the French King's decree concerning those manufactures.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The decree is printed in French and English.</note>
+                  <note>Opposes the trade in goods from East-India, as detrimental to English manufactures.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189472:1" rendition="simple:additions"/>
+            <head>A Particular of the Silks, and a Specimen of the Toyes and Handicraft-Wares, which came from the <hi>Eaſt-India,</hi> on the Ships <hi>Martha, Sarah</hi> and <hi>Dorothy;</hi> with the Rates at which they were ſold at the late Sale at the <hi>Eaſt-India-</hi>Houſe; according to the Books of Sales of theſe Ships, and Printed Cargoes.</head>
+            <p>
+               <table>
+                  <head>On the Ship <hi>Martha,</hi> made of Silk, Herbs, or Mix'd.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ATlaſſes 4570 pieces, at 2 <hi>l.</hi> 10 <hi>s. per</hi> piece,</cell>
+                     <cell>011425</cell>
+                  </row>
+                  <row>
+                     <cell>Addaties 1030 pieces, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>001030</cell>
+                  </row>
+                  <row>
+                     <cell>Chawters 1285, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>001285</cell>
+                  </row>
+                  <row>
+                     <cell>Cherconnes 380, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>000380</cell>
+                  </row>
+                  <row>
+                     <cell>Chucklaces 1900, at 2 <hi>l.</hi>
+                     </cell>
+                     <cell>003800</cell>
+                  </row>
+                  <row>
+                     <cell>Jam Wares 295, at 2 <hi>l.</hi>
+                     </cell>
+                     <cell>000590</cell>
+                  </row>
+                  <row>
+                     <cell>Mahobutt Bannes 936, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>000936</cell>
+                  </row>
+                  <row>
+                     <cell>Peniaſcoes or Penaſſes 1667, at 1 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>002500</cell>
+                  </row>
+                  <row>
+                     <cell>Pholcaries 129, at 2 <hi>l.</hi>
+                     </cell>
+                     <cell>000258</cell>
+                  </row>
+                  <row>
+                     <cell>Romalls 21415 pieces, at 16 <hi>s.</hi>
+                     </cell>
+                     <cell>017132</cell>
+                  </row>
+                  <row>
+                     <cell>Seerſuckers 552, at 1 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>000828</cell>
+                  </row>
+                  <row>
+                     <cell>Sooſeys 7413 pieces, at 2 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>018532</cell>
+                  </row>
+                  <row>
+                     <cell>Shaulbafts 716, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>000716</cell>
+                  </row>
+                  <row>
+                     <cell>Taffeties 14645, at 2 <hi>l.</hi>
+                     </cell>
+                     <cell>029290</cell>
+                  </row>
+                  <row>
+                     <cell>Herba-Taffeties 2405, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>002405</cell>
+                  </row>
+                  <row>
+                     <cell>Silk Lungees 2436, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>002436</cell>
+                  </row>
+                  <row>
+                     <cell>Herba and Cotten Lungees 5200, at 3 <hi>s.</hi> 6 <hi>d.</hi>
+                     </cell>
+                     <cell>000910</cell>
+                  </row>
+                  <row>
+                     <cell>Nankeen Taffeties 118, at 4 <hi>l.</hi>
+                     </cell>
+                     <cell>000472</cell>
+                  </row>
+                  <row>
+                     <cell>Muttraſſes 603 pieces, at 2 <hi>l.</hi> 8 <hi>s.</hi>
+                     </cell>
+                     <cell>001447</cell>
+                  </row>
+                  <row>
+                     <cell>Elatches 185, at 18 <hi>s.</hi>
+                     </cell>
+                     <cell>000166</cell>
+                  </row>
+                  <row>
+                     <cell>Nillas or Bengalls 11430, at 22 <hi>s.</hi>
+                     </cell>
+                     <cell>012573</cell>
+                  </row>
+                  <row>
+                     <cell>Putkaes 1238, at 17 <hi>s.</hi>
+                     </cell>
+                     <cell>001052</cell>
+                  </row>
+                  <row>
+                     <cell>Ginghams coulour'd 5691, at 23 <hi>s.</hi>
+                     </cell>
+                     <cell>006594</cell>
+                  </row>
+                  <row>
+                     <cell>Canvas 232 Bolts, at 2 <hi>l.</hi>
+                     </cell>
+                     <cell>000464</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>117225</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>On the Ship <hi>Sarah,</hi> made of Silk, Herbs, or Mix'd.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>CHouters 230 pieces, at 1 <hi>l.</hi> 5 <hi>s.</hi>
+                     </cell>
+                     <cell>00287</cell>
+                  </row>
+                  <row>
+                     <cell>Gelongs 1360 pieces, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>01360</cell>
+                  </row>
+                  <row>
+                     <cell>Hockings 1000 pieces, at 14 <hi>s.</hi>
+                     </cell>
+                     <cell>00700</cell>
+                  </row>
+                  <row>
+                     <cell>Paunches 1417 pieces, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>01417</cell>
+                  </row>
+                  <row>
+                     <cell>Pelongs 485, at 1 <hi>l.</hi> 5 <hi>s.</hi>
+                     </cell>
+                     <cell>00606</cell>
+                  </row>
+                  <row>
+                     <cell>Romalls 2623, at 16 <hi>s.</hi>
+                     </cell>
+                     <cell>02098</cell>
+                  </row>
+                  <row>
+                     <cell>Shalbafts 95, at 3 <hi>l.</hi>
+                     </cell>
+                     <cell>00285</cell>
+                  </row>
+                  <row>
+                     <cell>Sooſeys 401, at 2 <hi>l.</hi> 15 <hi>s.</hi>
+                     </cell>
+                     <cell>01102</cell>
+                  </row>
+                  <row>
+                     <cell>Taffeties 1552, at 2 <hi>l.</hi> 4 <hi>s.</hi>
+                     </cell>
+                     <cell>03414</cell>
+                  </row>
+                  <row>
+                     <cell>Gawzes 153, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>00153</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>11422</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>On the Ship <hi>Dorothy,</hi> made of Silk, Herbs, or Mix'd.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>PAunches 6207 pieces, at 1 <hi>l.</hi> 6 <hi>s.</hi>
+                     </cell>
+                     <cell>08069</cell>
+                  </row>
+                  <row>
+                     <cell>Gelongs 5192, at 1 <hi>l.</hi> 1 <hi>s.</hi>
+                     </cell>
+                     <cell>05451</cell>
+                  </row>
+                  <row>
+                     <cell>Ditto, Printed and Painted 392, at 1 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>00588</cell>
+                  </row>
+                  <row>
+                     <cell>More ſtriped 1018, at 1 <hi>l.</hi>
+                     </cell>
+                     <cell>01018</cell>
+                  </row>
+                  <row>
+                     <cell>Pelongs 5948, at 1 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>08922</cell>
+                  </row>
+                  <row>
+                     <cell>Velvets 345, at 4 <hi>l.</hi>
+                     </cell>
+                     <cell>01380</cell>
+                  </row>
+                  <row>
+                     <cell>Sattins 107, at 5 <hi>l.</hi>
+                     </cell>
+                     <cell>00535</cell>
+                  </row>
+                  <row>
+                     <cell>Damask Nankeens 103, at 5 <hi>l.</hi>
+                     </cell>
+                     <cell>00515</cell>
+                  </row>
+                  <row>
+                     <cell>Sattin Nankeens 403, at 5 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>02216</cell>
+                  </row>
+                  <row>
+                     <cell>Sattins plain 87, at 3 <hi>l.</hi>
+                     </cell>
+                     <cell>00261</cell>
+                  </row>
+                  <row>
+                     <cell>China Silks 133, at 4 <hi>l.</hi>
+                     </cell>
+                     <cell>00532</cell>
+                  </row>
+                  <row>
+                     <cell>Gorgoreas 118, at 4 <hi>l.</hi>
+                     </cell>
+                     <cell>00472</cell>
+                  </row>
+                  <row>
+                     <cell>Taffety Nankeens 81, at 3 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>00283</cell>
+                  </row>
+                  <row>
+                     <cell>Sattins, <hi>&amp;c.</hi> 169 pieces, at 4 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>00760</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>31002</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>Toyes and Small Goods, by the <hi>Sarah</hi> and <hi>Dorothy.</hi>
+                  </head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>CHina-Ware pieces</cell>
+                     <cell>150000</cell>
+                  </row>
+                  <row>
+                     <cell>Fans</cell>
+                     <cell>038557</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Sticks for Fans</cell>
+                     <cell>013470</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer Trunks, Eſcretors, Bowles, Cups, Diſhes, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>010500</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Tables inlaid</cell>
+                     <cell>000189</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Pannels in Frames, painted and carv'd for Rooms,</cell>
+                     <cell>000047</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Boards</cell>
+                     <cell>000178</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Bruſhes</cell>
+                     <cell>003099</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Tables, not inlaid</cell>
+                     <cell>000277</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Fans for Fire</cell>
+                     <cell>000174</cell>
+                  </row>
+                  <row>
+                     <cell>Lacquer'd Boards for Skreens</cell>
+                     <cell>000054</cell>
+                  </row>
+                  <row>
+                     <cell>Skreens ſet in Frames</cell>
+                     <cell>000071</cell>
+                  </row>
+                  <row>
+                     <cell>Paper Joſſes</cell>
+                     <cell>001799</cell>
+                  </row>
+                  <row>
+                     <cell>Shells painted, double gilt</cell>
+                     <cell>000281</cell>
+                  </row>
+                  <row>
+                     <cell>Parcels of Indian Robes</cell>
+                     <cell>000098</cell>
+                  </row>
+                  <row>
+                     <cell>Silks painted for Shaſhes</cell>
+                     <cell>000260</cell>
+                  </row>
+                  <row>
+                     <cell>Paper painted for Fans</cell>
+                     <cell>000377</cell>
+                  </row>
+                  <row>
+                     <cell>Images of Copper, Stone, Wood and Earth,</cell>
+                     <cell>000600</cell>
+                  </row>
+                  <row>
+                     <cell>Pictures</cell>
+                     <cell>000669</cell>
+                  </row>
+                  <row>
+                     <cell>Petticoats of painted Silks</cell>
+                     <cell>000040</cell>
+                  </row>
+                  <row>
+                     <cell>Quitteſolls</cell>
+                     <cell>000098</cell>
+                  </row>
+                  <row>
+                     <cell>Braſs and Iron Frames and Leaves for Lanthorns</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Braſs Hinges in Cheſts</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Embroideries for Curtains, Valloons, and Counterpaines</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Quilts and Petticoats</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>All Sold, by the beſt Account taken, for above</cell>
+                     <cell>050000</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                  </row>
+                  <row>
+                     <cell>Goods by the <hi>Martha,</hi>
+                     </cell>
+                     <cell>117225</cell>
+                  </row>
+                  <row>
+                     <cell>Goods by the <hi>Sarah,</hi>
+                     </cell>
+                     <cell>011422</cell>
+                  </row>
+                  <row>
+                     <cell>Goods by the <hi>Dorothy,</hi>
+                     </cell>
+                     <cell>031002</cell>
+                  </row>
+                  <row>
+                     <cell>Toyes and ſmall Goods,</cell>
+                     <cell>050000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>209649</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Beſides great Quantities unſold.</p>
+            <p>Whether the Silks and Goods mentioned, as well as great Quantities of Painted and Dyed Callicoes from <hi>India,</hi> not taken notice of in this Liſt, be ſpent here in <hi>England,</hi> in the room of our Home-made Silks and Woollen Manufactories, and with the Toys and Handicraft-Wares (being it will appear upon Examination) that all are purchaſed with our Mony, do exhauſt the Treaſure of the Nation, deprive the Poor of their Livelihood, and hinder the Conſumption of our Wooll and Products, and may not probably increaſe <hi>ad infinitum,</hi> unleſs a Stop be put to their Conſumption by this Honourable Houſe; is humbly ſubmitted.</p>
+            <p>Since the Adverſaries of the Bill now depending in the Honourable Houſe of Commons, <hi>For Reſtraining the wearing of</hi> India <hi>Silks,</hi> &amp;c. have ſpread Reports how greatly this Trade is courted by our Neighbours, and particularly how the French King encourageth Foreign Trade; we thought it neceſſary, for the Satisfaction of all thoſe Worthy Perſons before whom this Affair lieth, to get an Authentick Copy of the French King's Order of Council, in that reſpect; whereby any un-prejudiced Perſon may ſee the Senſe they had of it, and the Proceedings they made upon it.</p>
+            <div xml:lang="fre" type="decree">
+               <head>Extrait des REGISTERS du Conceil d'Eſtat.</head>
+               <p>
+                  <hi>LE Roy eſtant informe que la grande quantite de Toiles de Cotton peintes aux Indes, ou contrefaites dans le Royaume, &amp; autres Etoffes de Soye a fleurs d'Or &amp; d'Argent de la Chine &amp; deſdites Indes, ont donne lieu non ſeulement au tranſport de pluſieurs millions hors du Royaume, mais encore cauſe la diminution des Manufactures etablies de longremps en France pour les Etoffes de Soye, Laines, Lins, Chanvres, &amp; en meſme temps la ruine &amp; deſertion des Ouvriers, leſquels, par la ceſſation de leur travail, ne trouvant plus d'occupation, ny de ſubſiſtance pour leurs familles, ſont ſortis du Royaume. A quoy eſtant neceſſaire de pourvoir, &amp; pour cet effet empeſcher le cours &amp; le debit dans le Royaume deſdites Toilles peintes &amp; Etoffes de Soye des Indes &amp; de la Chine, en accordant neanmoins un temps raiſonnable a ceux qui en ſont chargez pour les vendre &amp; s'en defaire. Ouy le raport du ſieur le Peletier Conſeiller ordinaire au Conſeil Royal, Controleur general des Finances: Sa Majeſte' en ſon Conſeil a ordonne &amp; ordonne, qu'a commencer du jour de la publication du preſent Arreſt toutes les fabriques etablies dans le Royaume pour peindre les Toilles de Cotton blanches ceſſeront, &amp; les moules ſervans a l'impreſſion d'icelles ſeront rompus &amp; briſez. Fait ſa Majeſte tres expreſſes deffenſes de les retablir, &amp; a tous ſes Sujets de peindre leſdites Toilles, &amp; aux Graveurs de faire aucuns moules ſervant a ladite impreſſion, a peine de conſiſcation des Toilles, moules &amp; autres uſtanciles, &amp; de trois mille livres d'amende payable par corps &amp; ſans deport, applicable un tiers au Denonciateur le ſecond aux Hoſpitaux des lieux, &amp; le troiſieme au Fermier du Domaine. Et a l'egard des Toilles peintes &amp; autres Etoffes de Soye a fleurs d'Or &amp; d'Argent des Indes &amp; de la Chine, Sa Majeſte a accorde &amp; accorde juſq'au dernier Decembre de l'annee prochaine</hi> 1687. <hi>aux Marchands &amp; autres qui en ſon chargez pour les vendre &amp; s'en defaire, ainſi qu'ils aviſeront bon eſtre; apres lequel tems fait ſa Majeſte deffenſes a tontes perfonnes de quelque qualite &amp; condition qu'elles ſoient, de les expoſer ny vendre, &amp; aux particuliers d'en achepter. Ordonne que celles qui ſeront trouvees dans les Magazins &amp; Boutiques ſeront bruſlees, &amp; les Proprietaires condamnez en pareilles amendes de trois mil livres applicable comme deſſus. Permet neanmoins ſa Majeſte l'entree, vente &amp; debit dans le Royaume des Toilles de Coton blanches en payani les droits portez par l'Arrest dudit Conſeil du</hi> 30. <hi>Avril dernier, qui ſera execute, enſemble celuy du</hi> 15. <hi>du preſent mois juſqu' au dernier Decembre de l'annee prochaine</hi> 1687. <hi>ſeulement. Enjoint ſa Majeſte au ſieur Lieutenant de Police de la ville de Paris, &amp; aux ſieurs Intendans &amp; Commiſſaires departis dans les Provinces &amp; Generalitez du Royaume, de tenir la main a l'execution du preſent Arrest, qui ſera pubile &amp; affiche par tout ou beſoin ſera, a ce qu'aucun ne'n ignore.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Fait au Conſeil d'Eſtat du Roy, tenu a Fontainebleau,</hi> 
+                     <date>
+                        <hi>le</hi> 26 <hi>jour d'Octobre mil ſix cens quatre-vingt ſix.</hi>
+                     </date>
+                  </dateline>
+                  <salute>
+                     <hi>Signe,</hi> COQUILLE.</salute>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="decree">
+               <head>A Decree of the Kings Counſel of State, concerning Cotten Linnen-Cloth, Printed in <hi>Eaſt-India,</hi> or Painted in the Kingdom; and other <hi>China</hi> and <hi>India</hi> Silks, Stuffs, and Flower'd with Gold and Silver. Given the <hi>26th</hi> of <hi>October,</hi> 1686. Extracted out of the Regiſter of the Council of State.</head>
+               <p>THE King being informed, That the great quantity of Cotten Linnen-Cloth, printed in <hi>East-India,</hi> or painted in the Kingdom, and other <hi>China</hi> and <hi>India</hi> Silk, Stuffs, and Flower'd with Gold and Silver, have not only given occaſion of Tranſporting out of the Kingdom many Millions, but alſo have diminiſhed the Manufactures of old eſta<g ref="char:EOLhyphen"/>bliſhed in <hi>France,</hi> for the making of Silk, Woollen, Linnen and Hemp-Stuffs; and at the ſame time the Ruin and Deſtruction of the Working-People, who by want of Work, having no Occupation nor Subſiſtance for their Families, are gone out of the Kingdom. The which being needful to provide a Remedy for, and for that effect to hinder the Courſe and Sale in the Kingdom of the ſaid painted Linnen-Cloth, and <hi>India</hi> and <hi>China</hi> Silks and Stuffs, nevertheleſs granting to the Owners a reaſonable time that they may ſell them; Having heard the Report of Monſieur <hi>le Pelletier,</hi> Counſellor Ordinary of the King's Royal Counſel, and Comptroller-General of the Finances; his Majeſty in his Counſel hath ordered, and doth order, That from the beginning of the Day of the Publication of the preſent Declaration, all the Manufactures eſtabliſhed in the Kingdom for Painting of the White Cotten Linnen-Cloth ſhall be aboliſhed, and the Moulds ſerving to the Printing of them ſhall be broke and deſtroy'd. His Majeſty doth forbid, moſt expreſly, the re-eſtabliſhing thereof; alſo to his Subjects the Painting of the ſaid Linnen-Cloth; and to the Engravers the making of any Moulds, ſerving to the ſaid Impreſſion, under the Penalty of loſing the ſaid Cloths, Moulds and other Utenſils, and three thouſand Livers Fine, perſonally paid and without dimunition; one third part to the Informer, the ſecond part to the Hoſpitals of the Place, and the third to the Farmers of the Revenue. And as concerning the painted Linnen-Cloth, and other <hi>China</hi> and <hi>India</hi> Silk, Stuffs, and Flower'd with Gold and Silver, his Majeſty hath granted, and doth grant (to the laſt of <hi>December</hi> 1687. next) to the Merchants and others, the Permiſſion of Selling them as they ſhall think fit: The ſaid time being expired, his Majeſty doth forbid to all Perſons, of what Quality and Condition whatſoever they are, the Expoſing and the Selling thereof; and to the Particulars the Buying thereof, doth order, That thoſe found in all Ware-Houſes and Shops ſhall be burnt, and the Proprietors condemned to the like Fine of three thouſand Livers, paid as aboveſaid. His Majeſty doth permit, nevertheleſs, the Entry, Sale and Retail, of the ſaid White Linnen Cloth in his Kingdom, paying by them the Taxes, according to the Declaration of the Counſel the 30th <hi>April</hi> laſt, which ſhall be executed; and that of the 15th of the preſent Month, to the laſt of <hi>December,</hi> 1687. next Year. His Majeſty doth command to the Lieutenant of the Policy of the City of <hi>Paris,</hi> and to the Intendants and Commiſſaries of the Provinces and Generalties of the Kingdom, to cauſe the preſent Declaration to be executed, being publiſhed and affixed in all the Places where need ſhall be, that no Body ſhould be ignorant thereof.</p>
+               <closer>
+                  <dateline>Done in the King's State-Council held at <hi>Fontainbleau,</hi> 
+                     <date>the 26th Day of <hi>October,</hi> 1686.</date>
+                  </dateline>
+                  <salute>Signed <hi>COQ<g ref="char:V">Ʋ</g>ILLE.</hi>
+                  </salute>
+               </closer>
+               <pb facs="tcp:189472:2"/>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>AN ACOUNT Of the late SALE of India Silks, &amp;c. WITH The French King's Decree Concerning thoſe Manufactures.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
